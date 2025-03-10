@@ -1,14 +1,22 @@
-# Prime Number Checker 🔢  
+# String Reverser in Python
 
-This is a simple Python program that checks whether a number is prime or not.  
+## Description
+This is a simple Python script that takes a user input string and reverses it using a `for` loop.
 
-## 🚀 How It Works  
-- The program prompts the user to enter a number.  
-- It then checks if the number is **prime** or **not**.  
-- If the number is **less than 2**, it is **not prime**.  
-- If it has divisors other than 1 and itself, it is **not prime**.  
+## How to Use
+1. Run the script in Python.
+2. Enter a string when prompted.
+3. The program will print the reversed string.
+
+## Example
+Input:*Hello*
+output will be *olleH*
+  
 
 ## 🛠 Usage  
+To run the script,
 1️⃣ Clone the repository:  
 ```sh
 git clone https://github.com/GERRY-01/Python.git
+
+2. Open the StringReverse.py file in a code editor and run it
