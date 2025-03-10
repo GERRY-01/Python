@@ -1,22 +1,20 @@
-# String Reverser in Python
+# Python Mini Projects
 
-## Description
-This is a simple Python script that takes a user input string and reverses it using a `for` loop.
+# Description
+This repository contains the following simple Python programs:
 
-## How to Use
-1. Run the script in Python.
-2. Enter a string when prompted.
-3. The program will print the reversed string.
+A Vowel Counter that counts the number of vowels in a given string.
+A String Reverser that reverses a user-input string.
+A Prime Number Checker that determines whether a given number is prime.
 
-## Example
-Input:*Hello*
-output will be *olleH*
-  
+## Installation & Usage
+1️⃣ Clone the repository:
 
-## 🛠 Usage  
-To run the script,
-1️⃣ Clone the repository:  
-```sh
 git clone https://github.com/GERRY-01/Python.git
 
-2. Open the StringReverse.py file in a code editor and run it
+2️⃣ Navigate to the project folder:
+
+cd Python
+
+3️⃣ Run any of the Python scripts:
+
